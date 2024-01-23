@@ -1,0 +1,5 @@
+object fit
+object position
+
+transform origin
+
